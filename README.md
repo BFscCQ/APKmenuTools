@@ -1,1 +1,2 @@
-# APKmenuTools
+# APKmenuTools使用注意！
+本工具需要基础环境，如果没有并且想要使用，请修改bat文件夹下的相关bat文件内容，将jar包或者可执行文件修改为自己的路径
